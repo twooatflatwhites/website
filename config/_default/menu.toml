@@ -6,3 +6,11 @@
 #[main.params]
 #icon = "home"
 #newtab = true
+
+[[social]]
+identifier = "instagram"
+name = "Instagram"
+url = "https://instagram.com/twooatflatwhites"
+
+[social.params]
+icon = "brand-instagram"
