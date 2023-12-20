@@ -2,7 +2,7 @@
 title: "Lima"
 description: 
 date: 2023-12-20T01:48:07Z
-image: 
+image: cover-lima.jpg
 math: 
 license: 
 hidden: false
