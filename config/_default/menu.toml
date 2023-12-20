@@ -14,3 +14,11 @@ url = "https://instagram.com/twooatflatwhites"
 
 [social.params]
 icon = "brand-instagram"
+
+[[social]]
+identifier = "polarsteps"
+name = "Polar Steps"
+url = "https://www.polarsteps.com/twooatsontour"
+
+[social.params]
+icon = "brand-polarsteps"
