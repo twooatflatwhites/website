@@ -2,12 +2,13 @@
 title: "Cusco"
 description: 
 date: 2023-12-24T21:54:16Z
-image: 
+image: cover-cusco.jpg
 math: 
 license: 
 hidden: false
 comments: true
 draft: true
+tags: ['Peru']
 ---
 **TDLR: Cusco served as our adventure hub for nearly three weeks, featuring unforgettable experiences like a private jungle tour in Manu National Park with Bonanza, an awe-inspiring visit to Machu Picchu, exploration of the Sacred Valley, and unique spots like Palccoyo Rainbow Mountain and Lake Humantay. Navigating the city by foot, we uncovered its charm and historical significance. Don't miss Cristo Blanco for a stunning view, even if it takes a couple of attempts! 🏞️🌄**
 
