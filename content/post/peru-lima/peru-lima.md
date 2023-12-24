@@ -10,6 +10,9 @@ comments: false
 draft: false
 tags: ['Peru']
 ---
+**TLDR: Arrived in Lima, kicking off our Peru adventure with 3-4 days to explore. Highlights include a walking tour in the historic center, a coastal stroll from Miraflores to Barranco for a sunset view at Lover's Park, a street art hunt in Barranco with a visit to the Jade Rivera museum, indulging in traditional Peruvian dishes, a visit to the Larco Museum for pre-Colombian art and a unique sex exhibition, and the feline delights of Kennedy Park.🚶‍♂️🌅🍲🏛️🐱**
+ 
+## The journey
 After 16 hours of travel, we arrived in Peru to start our journey. We are here! We arrived in Lima (via Bogota) and it all went pretty smooth: no delays, nothing forgotten, bags are in Lima etc!
 In a slight daze, we were both eager to get out and explore Lima, the entry point for most into Peru. From the second you leave the airport, there is the pure chaos of Latin America we experienced in Mexico - nothing and everything makes sense here; it's pure explosion of people and sounds.
 
