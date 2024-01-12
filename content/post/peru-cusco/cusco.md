@@ -16,11 +16,11 @@ tags: ['Peru']
 ## The journey
 The first thing when you arrive in Cusco is that you're hit with altitude - it's quite high here. We got into a taxi, arrived at our hostel and after climbing about 10 steps felt like we were going to faint. We have never felt like that before and it was hard to believe we would get used to it, but we did! We drank lots of coca tea which is made with coca leaves (which are the main ingredient of cocaine); this leaf is extremely important to Incan history and are sacred. It just makes you feel a bit more perky and helps with oxygen flow and therefore the altitude. You can drink it as tea or put leaves in your mouth to suck and get concentrated juice. I can't tell if it helps or if it's psychological but it seemed to do us some good!
 
-### How long we stayed
+## How long we stayed
 
 Depending on your time, you could spend anywhere from 3 days to 3 months in Cusco. We were in and around Cusco for just under 3 weeks, including our time out in Manu.
 
-### What we did
+## What we did
 
 There's so much to do in Cusco city and outside of the city so it's impossible to do absolutely everything, but here is what we got up to:
 
@@ -53,11 +53,11 @@ Lake Humantay is a glacier lake at an altitude of 4,600m meaning you need to com
   
 - **Cristo Blanco.** As you're wandering around Cusco, you'll probably notice the white Christ statue overlooking the city, you can actually walk up to Cristo Blanco and enjoy an amazing view over the city. It took us 3 attempts to get up here - not because we struggled with the climb, but because we firstly ran into a collapsed stairway that blocked our path (great start!) and then a paywall (not paying to see stones to get to big jesus oh hell no). We decided to hang about until sunset and go later on our third and successful try!
 
-### Where we stayed
+## Where we stayed
 
 As we were moving in and out of Cusco, we stayed in a few places. Our favourite was [The Bear Packer](https://www.bearpackerhostelcusco.com/en/), great social environment here (it was like mini northern England!) with good facitilies. Think I remember it being pretty cheap too!
 
-### Where we ate
+## Where we ate
 
 As is seemingly common in Peru, you're spoilt for choice:
 
@@ -70,7 +70,7 @@ As is seemingly common in Peru, you're spoilt for choice:
 - [Green Point](https://www.happycow.net/reviews/green-point-cusco-39623) - another amazing vegan restaurant in Cusco, you can also pick up very good pastries to go.
   
 
-### Where to find great coffee
+## Where to find great coffee
 
 We only managed to find one spot worth mentioning, but this was our favourite cafe in all of Peru:
 
